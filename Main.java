@@ -30,6 +30,8 @@ public class Main {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
 
-    
+    //Livro l0 = new Livro();
+    //Livro l1 = new Livro("Meu título", "Fernando", "0103884028", 134, 34.00);
+    //Livro l2 = new Livro("Meu título 2", "Fernando");
   }
 }
