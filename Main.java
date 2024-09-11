@@ -19,7 +19,7 @@ Métodos:
 
 - Getters e Setters para todos os atributos
 - public void aplicarDesconto(double percentual)
-- public String getDescricao()
+- public String getDescricao() //Mostrar todos os atributos
 - public boolean estaDentroOrcamento(double preco)
 */
 
